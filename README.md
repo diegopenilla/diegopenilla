@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi 👋 
+  
+```python
+class Me:
+    def __init__(self, idea: str = "generative workflows with multimodal AI"):
+        self.skills = ["Python", "ML/AI", "Cloud", "React"]
+        self.interests = ["Data Science", "IoT", "CAD"]
+        self.currently = f"Working on {idea}"
 
+```
+  
 <!--
 **diegopenilla/diegopenilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
