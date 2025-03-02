@@ -20,8 +20,6 @@ I'm a passionate full stack data scientist bridging the gap between data, softwa
 | Deployment | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 
-## 🌟 Quick Overview
-
 - 🌱 Constantly learning and exploring new technologies.
 - 💡 Passionate about transforming complex data into meaningful insights.
 - 🤝 Open to collaborations and innovative projects.
