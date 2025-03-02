@@ -21,6 +21,7 @@ I'm a passionate full stack data scientist bridging the gap between data, softwa
 
 ______
 
+### I'm always...
+
 - 🌱 Constantly learning and exploring new technologies.
-- 💡 Passionate about transforming complex data into meaningful insights.
 - 🤝 Open to collaborations and innovative projects.
